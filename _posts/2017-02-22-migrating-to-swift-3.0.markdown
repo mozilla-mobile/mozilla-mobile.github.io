@@ -75,7 +75,7 @@ This is a list of the causes of the compiler Segfaults we encountered.
 * Using `AnyObject` to contain a JSON dictionary. Moving to using `[String: Any]` resolved this
 * Casting to `NSString` from `String` in order to call a function defined as an `NSString` extension. Extending `String` instead of `NSString` resolved this
 * Using `NSObject`s interchangeably with Swift objects - especially in dictionaries.
-* [Annotating a protocol defining a weak var with `@objc`.][protocol-annotaion]
+* [Annotating a protocol defining a weak var with `@objc`.][protocol-annotation]
 
 Some compilation errors that caused some significant head scratching:
 
