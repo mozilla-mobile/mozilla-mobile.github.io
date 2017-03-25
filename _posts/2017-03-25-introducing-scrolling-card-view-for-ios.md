@@ -6,7 +6,7 @@ For [Project Prox][Prox], we were asked to implement a
 design<sup><a href="#notes">1</a></sup> like this:
 
 <div align="center">
-  <img src="/im/posts/scroll-card-view.gif" alt="Scrolling the card view">
+  <img src="/images/scroll-card-view.gif" alt="Scrolling the card view">
 </div>
 
 Specifically, this is a card view that:
@@ -90,6 +90,11 @@ Want it? ScrollingCardView is available on CocoaPods: you can find installation
 instructions and the source [on GitHub][GitHub].
 
 Questions? Feature requests? [File an issue][issues] or find us on [#mobile][].
+
+---
+
+This entry was [originally posted on
+mcomella.xyz](http://mcomella.xyz/blog/2017/introducing-scrolling-card-view-for-ios.html).
 
 ---
 <a name="Notes"></a>
